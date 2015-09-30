@@ -1,3 +1,3 @@
 ## Winch motor controller for MSP430 ##
 
-This code can be compiled with Code Composer Studio, a Eclipse-based compiler from TI.
+When I made this project I used Code Composer Studio (an Eclipse-based IDE from TI) its built-in toolchain to compile and on-chip debug.  I believe the toolchain was a version of GCC tailored for TI's chips, which you can find [here](http://www.ti.com/tool/msp430-gcc-opensource).
