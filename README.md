@@ -14,7 +14,7 @@ The project is a good example of firmware design.  The code I wrote demonstrates
 * good coding practices
     * well-documented code
     * consistent coding standards
-    * object-oriented design insofar asa the language \(C\) permitted
+    * object-oriented design insofar as the language \(C\) permitted
 
 You'll find relevant code in `main.c/h` and `control.c/h`.
 
